@@ -14,7 +14,7 @@ The MNIST dataset contains 70,000 grayscale images of handwritten digits (0–9)
 Install the required packages using pip:
 
 ```bash
-pip install tensorflow streamlit pyngrok
+! pip install tensorflow streamlit pyngrok
 ```
 
 ## Dataset
