@@ -42,7 +42,7 @@ The CNN model architecture includes:
 Run the notebook directly using:
 
 ```bash
-jupyter notebook MNSIT_Digit_Classifier.ipynb
+jupyter notebook MNIST_Digit_Classifier.ipynb
 ```
 
 ### Streamlit Deployment 
