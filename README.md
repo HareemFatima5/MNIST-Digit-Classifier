@@ -72,11 +72,11 @@ The model achieved the following test accuracies:
 
 ## Highlights
 
-- Simple and effective CNN-based solution
+- Simple and effective CNN based solution
 - High classification accuracy on a standard benchmark
 - Easy to deploy using Streamlit and Ngrok
 
-## 📃 License
+## License
 
 This project is open source and available for educational and non commercial use.
 
