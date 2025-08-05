@@ -58,7 +58,7 @@ ngrok http 8501
 ```
 ## Streamlit App
 
-![demo](https://github.com/HareemFatima5/Netflix-Movie-Recommender/blob/main/Netflix%20Movie%20Recommender.PNG)
+![demo](<img width="525" height="391" alt="0" src="https://github.com/user-attachments/assets/a210634b-8907-4071-b22c-470cee82b136" />)
 
 ## Results & Accuracy
 
