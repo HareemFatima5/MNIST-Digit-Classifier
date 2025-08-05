@@ -56,6 +56,9 @@ If using Ngrok to expose the app publicly:
 ```bash
 ngrok http 8501
 ```
+## Streamlit App
+
+![demo](https://github.com/HareemFatima5/Netflix-Movie-Recommender/blob/main/Netflix%20Movie%20Recommender.PNG)
 
 ## Results & Accuracy
 
