@@ -58,7 +58,7 @@ ngrok http 8501
 ```
 ## Streamlit App
 
-![demo](<img width="525" height="391" alt="0" src="https://github.com/user-attachments/assets/a210634b-8907-4071-b22c-470cee82b136" />)
+![demo](https://github.com/HareemFatima5/MNIST-Digit-Classifier/blob/main/images/6.PNG)
 
 ## Results & Accuracy
 
